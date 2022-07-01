@@ -1,0 +1,11 @@
+.yarn
+.npm
+.next
+dist
+node_modules
+
+# unsupported formats
+yarn.lock
+.gitignore
+.prettierignore
+.npmrc
